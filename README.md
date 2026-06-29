@@ -1,2 +1,2 @@
 # Stardance-Website
-My webstie for stardance
+My website for Stardance
